@@ -1,0 +1,106 @@
+body{
+    background: rgb(254, 250, 239);
+    color: rgb(18, 18, 18);
+    font-family: sans-serif;
+    letter-spacing: -1px;
+    line-height: 20px;
+}
+p{
+    font-size: 160px;
+    display: inline-block;
+    transform: rotate(-90deg) translate(-470px);
+}
+h2{
+    font-size: 30px;
+    transform: translate(300px, -286px)
+}
+p2{
+    display: flex;
+    transform: translate(430px, -465px)
+}
+p3{
+    display: flex;
+    transform: translate(430px, -485px)
+}
+p4{
+    display: flex;
+    transform: translate(430px, -485px)
+}
+p5{
+    display: flex;
+    transform: translate(430px, -515px)
+}
+p6{
+    display: flex;
+    transform: translate(430px, -515px)
+}
+h3{
+    font-size: 30px;
+    display: flex;
+    transform: translate(650px, -1146px)
+}
+p7{
+    display: flex;
+    transform: translate(780px, -1101px)
+}
+p8{
+    display: flex;
+    transform: translate(630px, -945px)
+}
+p9{
+    display: flex;
+    transform: translate(280px, -300px)
+}
+p10{
+    display: flex;
+    transform: translate(280px, -330px)
+}
+p11{
+    display: flex;
+    transform: translate(280px, -360px)
+}
+p13{
+    display: flex;
+    transform: translate(630px, -1414px)
+}
+p14{
+    display: flex;
+    transform: translate(780px, -1579px)
+}
+p15{
+    display: flex;
+    transform: translate(630px, -1205px)
+}
+p16{
+    display: flex;
+    transform: translate(780px, -1360px)
+}
+h4{
+    font-size: 30px;
+    display: flex;
+    transform: translate(990px, -1982px)
+}
+p17{
+    display: flex;
+    transform: translate(970px, -2012px)
+}
+p18{
+    display: flex;
+    transform: translate(1120px, -2176px)
+}
+p19{
+    display: flex;
+    transform: translate(970px, -2040px)
+}
+p20{
+    display: flex;
+    transform: translate(1120px, -2195px)
+}
+p21{
+    display: flex;
+    transform: translate(970px, -2052px)
+}
+p22{
+    display: flex;
+    transform: translate(1120px, -2205px)
+}
