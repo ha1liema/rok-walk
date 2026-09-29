@@ -1,0 +1,20 @@
+body{
+    background: rgb(254, 250, 239);
+    color: rgb(18, 18, 18);
+    font-family: sans-serif;
+    letter-spacing: -1px;
+    line-height: 20px;
+    margin-top: 50px;
+}
+h2{
+    font-size: 30px;
+    margin-left: 350px;
+}
+p{
+    line-height: 30px;
+    margin-left: 350px;
+}
+p2{
+    display: flex;
+    transform: translate(-30px, -830px)
+}
